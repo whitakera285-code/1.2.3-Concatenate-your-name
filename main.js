@@ -1,1 +1,7 @@
-console.log(/* Your code here */);
+var firstName = "Elektra";
+var lastName = "Mercutio";
+
+// Add my first name, then space, then my last name
+var fullName = firstName + " " + lastName;
+
+println(fullName); // Output: Elektra Mercutio
